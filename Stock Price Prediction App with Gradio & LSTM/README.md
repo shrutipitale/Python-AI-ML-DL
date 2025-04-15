@@ -17,3 +17,8 @@ Deploy your app with Gradio UI
 
 2. To deploy to Hugging Face Spaces
 ![Screenshot 2025-04-15 181041](https://github.com/user-attachments/assets/1b9746ed-62ed-4086-a3e7-19736dbbae18)
+
+3. Video Output
+   
+![2025-04-15 18-15-05](https://github.com/user-attachments/assets/dcb5aff2-0db2-4325-8d75-a70410b079be)
+
